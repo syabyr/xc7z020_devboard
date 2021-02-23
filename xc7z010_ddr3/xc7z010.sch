@@ -1,0 +1,107 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 1 1 6033DC21
+P 1500 3350
+AR Path="/6033DC21" Ref="U1"  Part="1" 
+AR Path="/6036CA45/6033DC21" Ref="U1"  Part="1" 
+F 0 "U1" H 1512 6167 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 1512 6076 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 1500 3350 50  0001 C CNN
+F 3 "" H 1500 3350 50  0001 C CNN
+	1    1500 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 3 1 60348B3C
+P 4500 3950
+AR Path="/60348B3C" Ref="U1"  Part="3" 
+AR Path="/6036CA45/60348B3C" Ref="U1"  Part="3" 
+F 0 "U1" H 4512 7317 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 4512 7226 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 4500 3950 50  0001 C CNN
+F 3 "" H 4500 3950 50  0001 C CNN
+	3    4500 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 4 1 6034DCAB
+P 7750 3600
+AR Path="/6034DCAB" Ref="U1"  Part="4" 
+AR Path="/6036CA45/6034DCAB" Ref="U1"  Part="4" 
+F 0 "U1" H 7757 6467 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 7757 6376 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 7750 3600 50  0001 C CNN
+F 3 "" H 7750 3600 50  0001 C CNN
+	4    7750 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 6 1 60352B44
+P 11000 2700
+AR Path="/60352B44" Ref="U1"  Part="6" 
+AR Path="/6036CA45/60352B44" Ref="U1"  Part="6" 
+F 0 "U1" H 11007 4217 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 11007 4126 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 11000 2700 50  0001 C CNN
+F 3 "" H 11000 2700 50  0001 C CNN
+	6    11000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 7 1 60359F98
+P 14100 3350
+AR Path="/60359F98" Ref="U1"  Part="7" 
+AR Path="/6036CA45/60359F98" Ref="U1"  Part="7" 
+F 0 "U1" H 14100 5667 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 14100 5576 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 14100 3350 50  0001 C CNN
+F 3 "" H 14100 3350 50  0001 C CNN
+	7    14100 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 2 1 603669BB
+P 2300 9550
+AR Path="/603669BB" Ref="U1"  Part="2" 
+AR Path="/6036CA45/603669BB" Ref="U1"  Part="2" 
+F 0 "U1" H 2312 10717 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 2312 10626 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 2300 9550 50  0001 C CNN
+F 3 "" H 2300 9550 50  0001 C CNN
+	2    2300 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L mybays_fpga_cpld:XC7Z010-CLG400 U1
+U 5 1 6036F366
+P 5900 11150
+AR Path="/6036F366" Ref="U1"  Part="5" 
+AR Path="/6036CA45/6036F366" Ref="U1"  Part="5" 
+F 0 "U1" H 5912 14467 50  0000 C CNN
+F 1 "XC7Z010-CLG400" H 5912 14376 50  0000 C CNN
+F 2 "mybays_fpga_cpld:CLG400-0.8" H 5900 11150 50  0001 C CNN
+F 3 "" H 5900 11150 50  0001 C CNN
+	5    5900 11150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
